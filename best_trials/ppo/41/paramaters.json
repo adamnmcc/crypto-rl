@@ -1,0 +1,15 @@
+{
+    "tech_indicators": [
+        "macd",
+        "boll_ub",
+        "boll_lb",
+        "close_5_sma",
+        "close_10_sma",
+        "close_20_sma",
+        "close_50_sma",
+        "close_100_sma",
+        "close_200_sma",
+        "rsi_14"
+    ],
+    "final_account_value": 52308.41
+}

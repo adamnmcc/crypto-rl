@@ -1,0 +1,16 @@
+gym
+matplotlib
+numpy
+pandas
+pandas_ta
+pyfolio
+requests
+scikit_learn
+stable_baselines3
+stockstats
+yfinance
+dydx-v3-python
+tensorboard
+optuna
+ray[tune]
+rl_zoo3
